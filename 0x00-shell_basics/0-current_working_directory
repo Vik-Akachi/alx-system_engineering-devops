@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$pwd" #current working directory
+echo "pwd" 
