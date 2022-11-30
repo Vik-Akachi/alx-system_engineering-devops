@@ -1,2 +1,6 @@
 #!/bin/bash
-my first readme message \n
+echo "script that prints the absolute path name of the current working directory"
+
+
+
+
