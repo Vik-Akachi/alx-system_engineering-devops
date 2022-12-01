@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -u -g vincent staff 
+chown -u  vincent -g staff 
