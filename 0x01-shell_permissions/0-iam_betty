@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown root@fa9a193799e8 betty
+su  betty
