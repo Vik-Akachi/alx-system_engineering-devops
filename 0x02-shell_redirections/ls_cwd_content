@@ -1,0 +1,18 @@
+total 60
+drwxr-xr-x 2 root root   327 Dec  5 09:03 .
+drwxr-xr-x 7 root root   158 Dec  5 03:01 ..
+-rwxr--r-- 1 root root    33 Dec  5 03:24 0-hello_world
+-rwxr--r-- 1 root root    47 Dec  5 08:39 10-no_more_js
+lrwxrwxrwx 1 root root    23 Dec  5 03:34 .#1-confused_smiley -> root@fa9a193799e8.10713
+-rwxr--r-- 1 root root    28 Dec  5 05:20 1-confused_smiley
+-rw-r--r-- 1 root root 12288 Dec  5 03:29 .1-confused_smiley.swp
+-rwxr--r-- 1 root root    28 Dec  5 05:29 2-hellofile
+-rwxr--r-- 1 root root    39 Dec  5 06:37 3-twofiles
+-rwxr--r-- 1 root root    29 Dec  5 06:41 4-lastlines
+-rwxr--r-- 1 root root    29 Dec  5 06:42 5-firstlines
+-rwxr--r-- 1 root root    40 Dec  5 06:57 6-third_line
+-rwxr--r-- 1 root root    79 Dec  5 07:15 7-file
+-rwxr--r-- 1 root root    37 Dec  5 09:03 8-cwd_state
+-rwxr--r-- 1 root root    27 Dec  5 08:26 9-duplicate_last_line
+-rw-r--r-- 1 root root     0 Dec  5 09:04 ls_cwd_content
+-rw-r--r-- 1 root root    24 Dec  5 03:03 README.md
