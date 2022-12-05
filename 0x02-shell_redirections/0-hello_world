@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "0-hellow_worl"
+echo "0-hellow_worl" > 0x02-shell_redirections
 
