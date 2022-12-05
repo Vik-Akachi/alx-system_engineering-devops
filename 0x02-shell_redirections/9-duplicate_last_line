@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -en "" | tail --lines = 1 iacta >> iactai
+echo ls >> tail -n=1 iacta | iactai
